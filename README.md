@@ -1,2 +1,2 @@
 # PacMan-Project
-PacMan Project for MIT xPRO Coding Bootcamp
+This PacMan project programs a image of PacMan which animates and moves across the screen on click command. It is programmed with edge detection so that it turns around and animates in the opposite direction. This project teaches one how to interact with the DOM and functions. My main job was to incorporate edge detection into the animation. We had to interact with an HTML file to allow it to display within the browser, a JS file to do the main coding, and an images folder to hold the actual image of the PacMan.
